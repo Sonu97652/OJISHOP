@@ -1,0 +1,52 @@
+{
+  "Category": [
+    {
+      "id": 0
+    }
+  ],
+  "SubCategory": [
+    {
+      "id": 0
+    }
+  ],
+  "Brand": [
+    {
+      "id": 0
+    }
+  ],
+  "Product": [
+    {
+      "id": 0
+    }
+  ],
+  "User": [
+    {
+      "id": 0
+    }
+  ],
+  "Cart": [
+    {
+      "id": 0
+    }
+  ],
+  "Wishlist": [
+    {
+      "id": 0
+    }
+  ],
+  "Checkout": [
+    {
+      "id": 0
+    }
+  ],
+  "Contact": [
+    {
+      "id": 0
+    }
+  ],
+  "Newslatter": [
+    {
+      "id": 0
+    }
+  ]
+}

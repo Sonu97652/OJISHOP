@@ -1,0 +1,436 @@
+{
+  "Category": [
+    {
+      "id": 0,
+      "name": "Male"
+    },
+    {
+      "name": "Child",
+      "id": 3
+    },
+    {
+      "name": "Female",
+      "id": 4
+    }
+  ],
+  "SubCategory": [
+    {
+      "name": "Jeans",
+      "id": 0
+    },
+    {
+      "name": "Dress",
+      "id": 1
+    },
+    {
+      "name": "Sweater",
+      "id": 2
+    },
+    {
+      "name": "Coat",
+      "id": 3
+    },
+    {
+      "name": "Short",
+      "id": 4
+    },
+    {
+      "name": "Tshirt",
+      "id": 5
+    },
+    {
+      "name": "Cap",
+      "id": 7
+    },
+    {
+      "name": "Shirt",
+      "id": 8
+    },
+    {
+      "name": "Caftan",
+      "id": 9
+    }
+  ],
+  "Brand": [
+    {
+      "name": "Polo",
+      "id": 0
+    },
+    {
+      "name": "Levi's",
+      "id": 1
+    },
+    {
+      "name": "adidas",
+      "id": 2
+    },
+    {
+      "name": "Allen Solly",
+      "id": 3
+    },
+    {
+      "name": "Zara",
+      "id": 4
+    },
+    {
+      "name": "Nike",
+      "id": 5
+    },
+    {
+      "name": "Peter England",
+      "id": 6
+    },
+    {
+      "name": "Ralph Lauren",
+      "id": 7
+    },
+    {
+      "name": "Fabindia",
+      "id": 8
+    },
+    {
+      "name": "Flying Machine",
+      "id": 9
+    }
+  ],
+  "Product": [
+    {
+      "name": "Male Tshirt White Pole",
+      "category": "Male",
+      "subcategory": "Dress",
+      "brand": "Polo",
+      "color": "White",
+      "size": "45",
+      "baseprice": 4898,
+      "discount": 49,
+      "finalprice": 2498,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "choose-1.jpg",
+      "pic2": "choose-2.jpg",
+      "pic3": "bg_1.png",
+      "pic4": "gallery-3.jpg",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Cap",
+      "category": "Female",
+      "subcategory": "Jeans",
+      "brand": "Flying Machine",
+      "color": "Red",
+      "size": "40",
+      "baseprice": 8555,
+      "discount": 52,
+      "finalprice": 4106,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "person_1.jpg",
+      "pic2": "person_2.jpg",
+      "pic3": "person_4.jpg",
+      "pic4": "image_6.jpg"
+    },
+    {
+      "name": "Male Tshirt White Pole",
+      "category": "Female",
+      "subcategory": "Dress",
+      "brand": "Flying Machine",
+      "color": "White",
+      "size": "45",
+      "baseprice": 3000,
+      "discount": 90,
+      "finalprice": 300,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "choose-1.jpg",
+      "pic2": "choose-2.jpg",
+      "pic3": "bg_1.png",
+      "pic4": "gallery-3.jpg",
+      "id": 2
+    },
+    {
+      "name": "Male Tshirt White Pole",
+      "category": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Polo",
+      "color": "White",
+      "size": "45",
+      "baseprice": 9582,
+      "discount": 50,
+      "finalprice": 4791,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "choose-1.jpg",
+      "pic2": "choose-2.jpg",
+      "pic3": "bg_1.png",
+      "pic4": "gallery-3.jpg",
+      "id": 3
+    },
+    {
+      "name": "Male Tshirt White Pole",
+      "category": "Female",
+      "subcategory": "Jeans",
+      "brand": "Nike",
+      "color": "White",
+      "size": "45",
+      "baseprice": 4898,
+      "discount": 49,
+      "finalprice": 2498,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "choose-1.jpg",
+      "pic2": "choose-2.jpg",
+      "pic3": "bg_1.png",
+      "pic4": "gallery-3.jpg",
+      "id": 4
+    },
+    {
+      "name": "Male Tshirt White Pole",
+      "category": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Flying Machine",
+      "color": "White",
+      "size": "45",
+      "baseprice": 10000,
+      "discount": 85,
+      "finalprice": 1500,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "choose-1.jpg",
+      "pic2": "choose-2.jpg",
+      "pic3": "bg_1.png",
+      "pic4": "gallery-3.jpg",
+      "id": 5
+    },
+    {
+      "name": "cap",
+      "category": " ",
+      "subcategory": " ",
+      "brand": " ",
+      "color": "green",
+      "size": "40",
+      "baseprice": 4582,
+      "discount": 52,
+      "finalprice": 2199,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "bg_2.png",
+      "pic2": "image_1.jpg",
+      "pic3": "prod-1.png",
+      "pic4": "product-8.png",
+      "id": 6
+    },
+    {
+      "name": "jeans",
+      "category": " ",
+      "subcategory": " ",
+      "brand": " ",
+      "color": "red",
+      "size": "36",
+      "baseprice": 7548,
+      "discount": 48,
+      "finalprice": 3924,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "image_2.jpg",
+      "pic2": "image_3.jpg",
+      "pic3": "bg_1.jpg",
+      "pic4": "image_1.jpg",
+      "id": 7
+    }
+  ],
+  "User": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Sonu Kumar",
+      "username": "sonu",
+      "email": "s3k2s1singh@gmail.com",
+      "phone": "09142875785",
+      "password": "sonu9988",
+      "addressline1": " ",
+      "addressline2": " ",
+      "addressline3": " ",
+      "pin": " ",
+      "city": " ",
+      "state": " ",
+      "pic": " ",
+      "role": "User",
+      "id": 1
+    },
+    {
+      "name": "Sonu Kumar",
+      "username": "sonu8888",
+      "email": "s3k2s1singh@gmail.com",
+      "phone": "09142875785",
+      "password": "sonu8888",
+      "addressline1": " ",
+      "addressline2": " ",
+      "addressline3": " ",
+      "pin": " ",
+      "city": " ",
+      "state": " ",
+      "pic": "prod-2.png",
+      "role": "User",
+      "id": 2
+    }
+  ],
+  "Cart": [],
+  "Wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 1,
+      "userid": "2",
+      "name": "Male Tshirt White Pole",
+      "color": "White",
+      "size": "45",
+      "price": 2500,
+      "pic": "choose-1.jpg",
+      "id": 4
+    },
+    {
+      "productid": 0,
+      "userid": "2",
+      "name": "Male Tshirt White Pole",
+      "color": "White",
+      "size": "45",
+      "price": 2498,
+      "pic": "choose-1.jpg",
+      "id": 5
+    }
+  ],
+  "Checkout": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "2",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2024-01-13T08:15:35.778Z",
+      "totalAmount": 12796,
+      "shippingAmount": 0,
+      "finalAmount": 12796,
+      "products": [
+        {
+          "productid": 2,
+          "userid": "2",
+          "name": "Male Tshirt White Pole",
+          "color": "White",
+          "size": "45",
+          "price": 300,
+          "qty": 1,
+          "total": 300,
+          "pic": "choose-1.jpg",
+          "id": 0
+        },
+        {
+          "productid": 1,
+          "userid": "2",
+          "name": "Male Tshirt White Pole",
+          "color": "White",
+          "size": "45",
+          "price": 2500,
+          "qty": 3,
+          "total": 7500,
+          "pic": "choose-1.jpg",
+          "id": 1
+        },
+        {
+          "productid": 6,
+          "userid": "2",
+          "name": "Male Tshirt White Pole",
+          "color": "White",
+          "size": "45",
+          "price": 2498,
+          "qty": 2,
+          "total": 4996,
+          "pic": "choose-1.jpg",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": "2",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2024-01-13T09:09:20.948Z",
+      "totalAmount": 4996,
+      "shippingAmount": 0,
+      "finalAmount": 4996,
+      "products": [
+        {
+          "productid": 4,
+          "userid": "2",
+          "name": "Male Tshirt White Pole",
+          "color": "White",
+          "size": "45",
+          "price": 2498,
+          "qty": 2,
+          "total": 4996,
+          "pic": "choose-1.jpg",
+          "id": 1
+        },
+        {
+          "userid": "2",
+          "qty": 1,
+          "total": null,
+          "pic": "",
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "2",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2024-01-14T12:53:15.030Z",
+      "totalAmount": 4996,
+      "shippingAmount": 0,
+      "finalAmount": 4996,
+      "products": [
+        {
+          "productid": 0,
+          "userid": "2",
+          "name": "Male Tshirt White Pole",
+          "color": "White",
+          "size": "45",
+          "price": 2498,
+          "qty": 2,
+          "total": 4996,
+          "pic": "choose-1.jpg",
+          "id": 1
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "Contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Sonu Kumar",
+      "email": "s3k2s1singh@gmail.com",
+      "phone": "09142875785",
+      "subject": "test",
+      "message": "gggghjkjb",
+      "status": "Active",
+      "time": "2024-01-15T06:06:38.448Z",
+      "id": 1
+    }
+  ],
+  "Newslatter": [
+    {
+      "id": 0
+    }
+  ]
+}
